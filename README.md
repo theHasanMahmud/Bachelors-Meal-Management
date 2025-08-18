@@ -60,7 +60,9 @@ A comprehensive meal tracking and cost management system designed for households
 - **Responsive Design**: Mobile-first approach with breakpoint optimization
 
 ## 📱 Screenshots
-
+localhost_5173_ (2).png
+image.png
+image.png
 *[Add screenshots of your application here]*
 
 ## 🎯 Use Cases
@@ -318,9 +320,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/meal-management/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/meal-management/discussions)
-- **Email**: your.email@example.com
+- **Email**: hasanmahmudmajumder@gmail.com
 
 ## 🔮 Roadmap
 
