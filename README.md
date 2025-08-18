@@ -59,11 +59,12 @@ A comprehensive meal tracking and cost management system designed for households
 - **State Management**: React Hooks (useState, useEffect, useMemo)
 - **Responsive Design**: Mobile-first approach with breakpoint optimization
 
+
 ## 📱 Screenshots
-localhost_5173_ (2).png
-image.png
-image.png
-*[Add screenshots of your application here]*
+![localhost_5173_ (2) (1)](https://github.com/user-attachments/assets/7a323e45-1b7a-45d4-830b-5222356ba6c6)
+<img width="1166" height="740" alt="image" src="https://github.com/user-attachments/assets/d5119235-a94b-41d8-b55e-f6becd696dec" />
+<img width="1166" height="740" alt="image" src="https://github.com/user-attachments/assets/ef0749ac-51d1-4378-b20c-b58bda6e92cc" />
+
 
 ## 🎯 Use Cases
 
