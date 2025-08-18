@@ -6,6 +6,14 @@ A comprehensive meal tracking and cost management system designed for households
 ![Node.js](https://img.shields.io/badge/Node.js-18.0+-green?style=for-the-badge&logo=node.js)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.0+-38B2AC?style=for-the-badge&logo=tailwind-css)
 
+## 🎥 Tutorial Video
+
+**📺 Watch the complete project walkthrough and demo:**
+
+[![YouTube Tutorial](https://img.shields.io/badge/YouTube-Tutorial%20Video-red?style=for-the-badge&logo=youtube)](https://youtu.be/tj_whq2d5DM)
+
+**[▶️ Watch on YouTube](https://youtu.be/tj_whq2d5DM)** - Complete project demo, features walkthrough, and code explanation
+
 ## ✨ Features
 
 ### 🤖 AI Smart Input Parser
