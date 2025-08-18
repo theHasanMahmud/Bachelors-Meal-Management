@@ -1,4 +1,6 @@
 # 🍽️ Meal Management System
+https://manage-my-meal.vercel.app/
+
 
 A comprehensive meal tracking and cost management system designed for households, hostels, and organizations. Features AI-powered smart input parsing, detailed cost breakdowns, and professional reporting capabilities.
 
