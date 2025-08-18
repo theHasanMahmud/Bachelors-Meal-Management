@@ -5,7 +5,6 @@ A comprehensive meal tracking and cost management system designed for households
 ![Meal Management System](https://img.shields.io/badge/React-18.0+-blue?style=for-the-badge&logo=react)
 ![Node.js](https://img.shields.io/badge/Node.js-18.0+-green?style=for-the-badge&logo=node.js)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.0+-38B2AC?style=for-the-badge&logo=tailwind-css)
-![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
 
 ## ✨ Features
 
@@ -307,10 +306,6 @@ We welcome contributions! Please follow these steps:
 - Add tests for new functionality
 - Update documentation for new features
 - Ensure all tests pass before submitting
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
