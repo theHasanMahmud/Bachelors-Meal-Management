@@ -2,9 +2,18 @@
 
 A comprehensive meal tracking and cost management system designed for households, hostels, and organizations. Features AI-powered smart input parsing, detailed cost breakdowns, and professional reporting capabilities.
 
-![Meal Management System](https://img.shields.io/badge/React-18.0+-blue?style=for-the-badge&logo=react)
+![React](https://img.shields.io/badge/React-19.1.1-blue?style=for-the-badge&logo=react)
 ![Node.js](https://img.shields.io/badge/Node.js-18.0+-green?style=for-the-badge&logo=node.js)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.0+-38B2AC?style=for-the-badge&logo=tailwind-css)
+![Express](https://img.shields.io/badge/Express-5.1.0-black?style=for-the-badge&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-8.17.1-green?style=for-the-badge&logo=mongodb)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4.1.11-38B2AC?style=for-the-badge&logo=tailwind-css)
+![Vite](https://img.shields.io/badge/Vite-7.1.2-purple?style=for-the-badge&logo=vite)
+
+
+## [![Watch on YouTube](https://img.shields.io/badge/Watch%20on-YouTube-red?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=tj_whq2d5DM)
+[![Watch the video](https://img.youtube.com/vi/tj_whq2d5DM/maxresdefault.jpg)](https://www.youtube.com/watch?v=tj_whq2d5DM)
+
+
 
 ## ✨ Features
 
@@ -41,22 +50,28 @@ A comprehensive meal tracking and cost management system designed for households
 ## 🚀 Tech Stack
 
 ### Frontend
-- **React 18**: Modern React with hooks and functional components
-- **Tailwind CSS**: Utility-first CSS framework for rapid UI development
-- **Vite**: Fast build tool and development server
+- **React 19.1.1**: Modern React with hooks and functional components
+- **Tailwind CSS 4.1.11**: Utility-first CSS framework for rapid UI development
+- **Vite 7.1.2**: Fast build tool and development server
+- **PostCSS**: CSS processing with autoprefixer
+- **ESLint**: Code quality and consistency
 - **Local Storage**: Client-side data persistence
 
 ### Backend
 - **Node.js**: JavaScript runtime environment
-- **Express.js**: Web application framework
-- **MongoDB Models**: Data structure definitions (ready for database integration)
-- **RESTful API**: Clean API endpoints for data management
+- **Express 5.1.0**: Web application framework
+- **Mongoose 8.17.1**: MongoDB ODM for database operations
+- **MongoDB**: NoSQL database for data storage
+- **CORS**: Cross-origin resource sharing
+- **dotenv**: Environment variable management
+- **Nodemon**: Development auto-restart tool
 
 ### Additional Technologies
 - **PDF Generation**: Browser-based PDF export using HTML
 - **AI Processing**: Regex-based smart text parsing
-- **State Management**: React Hooks (useState, useEffect, useMemo)
+- **State Management**: React Hooks (useState, useEffect, useMemo, useCallback)
 - **Responsive Design**: Mobile-first approach with breakpoint optimization
+- **RESTful API**: Clean API endpoints for data management
 
 
 ## 📱 Screenshots
@@ -339,6 +354,6 @@ We welcome contributions! Please follow these steps:
 
 ---
 
-**Built with ❤️ using React, Node.js, and modern web technologies**
+**Built with ❤️ using React, Node.js, Express, MongoDB, Tailwind CSS, Vite, and modern web technologies**
 
 **Star this repository if you find it helpful! ⭐**
